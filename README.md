@@ -15,8 +15,10 @@ At Loxley Innovations, we specialize in driving innovation at the intersection o
 ![Sample 3](/assets/img/_3.jpg)
    
 ## Data Analytics: 
- - Python, SQL, RStudio
+ - Python, SQL, RStudio, Power BI
 
+![Dash 1](/assets/img/Trendiment_2.JPG)
+![Dash 2](/assets/img/5B_Demo.JPG)
 
 ## Meet The Team:
 
