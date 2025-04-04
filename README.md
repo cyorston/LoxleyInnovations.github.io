@@ -10,9 +10,9 @@ At Loxley Innovations, we specialize in driving innovation at the intersection o
 ## Hardware and Instrumentation: 
  - Arduino, PLC, Test Automation
 
-![Sample 1](/assets/img/_1.jpg)
-![Sample 2](/assets/img/_2.jpg)
-![Sample 3](/assets/img/_3.jpg)
+![Sample 1](/assets/img/4.JPG)
+![Sample 2](/assets/img/5.JPG)
+![Sample 3](/assets/img/6.JPG)
    
 ## Data Analytics: 
  - Python, SQL, RStudio, Power BI
