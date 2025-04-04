@@ -9,6 +9,10 @@ At Loxley Innovations, we specialize in driving innovation at the intersection o
 # Technical Skills:
 ## Hardware and Instrumentation: 
  - Arduino, PLC, Test Automation
+
+![Sample 1](/assets/img/_1.JPG)
+![Sample 2](/assets/img/_2.JPG)
+![Sample 3](/assets/img/_3.JPG)
    
 ## Data Analytics: 
  - Python, SQL, RStudio
